@@ -17,4 +17,4 @@ Required packages
 
 Requisite packages can be installed based on requirements.txt
 
-The code has been tested to run on python3
+The code has been tested to run on python3.6 and python2.7
